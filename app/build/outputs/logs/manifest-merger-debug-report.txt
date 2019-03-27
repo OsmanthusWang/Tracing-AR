@@ -1,0 +1,486 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:2:1-157:12
+INJECTED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:2:1-157:12
+INJECTED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:2:1-157:12
+INJECTED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:2:1-157:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\a4245329c91c9d8d5b76712ba3de27a7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\fe1ce3bff73b79a73d6c02639d52fbc6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9474ccb11a815fe20e53ed05253e6572\AndroidManifest.xml:17:1-28:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\4d0325abde6e4209c95b7b030622bbff\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\5e1dde3385fa39755fa235e0de7f656c\AndroidManifest.xml:17:1-28:12
+MERGED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b47e594fe080a1e21b74c40d3437ed57\AndroidManifest.xml:17:1-28:12
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\toolsfinal-1.1.5.aar\a10d9bd985f90b74cf1a2d9977f2c8ba\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\2f3b716ad992f0690d635a4a65a308dd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0171d27459e40095f9a2ff4d82e093f1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\25e05fa9f32de2becebb7ff2559028fd\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\88569761571c87c76d9593856a9b96cb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2471394357f348d9aba28b704e613671\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9c16640541597592255eb29e0f4716e2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7173fb2851ba9211cd704dab23a4ad4b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\21f322cf51717b188ae352f4cc1fa912\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\72cb22edfaabdf747d410871a1fc992d\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:2:1-157:12
+INJECTED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:2:1-157:12
+INJECTED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:2:1-157:12
+	package
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:4:5-45
+		INJECTED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:2:1-157:12
+		INJECTED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:2:1-157:12
+		INJECTED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:6:5-48
+INJECTED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:6:5-48
+INJECTED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:6:5-48
+MERGED from [com.android.support:design:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\a4245329c91c9d8d5b76712ba3de27a7\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\a4245329c91c9d8d5b76712ba3de27a7\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\fe1ce3bff73b79a73d6c02639d52fbc6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\fe1ce3bff73b79a73d6c02639d52fbc6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9474ccb11a815fe20e53ed05253e6572\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9474ccb11a815fe20e53ed05253e6572\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\4d0325abde6e4209c95b7b030622bbff\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\4d0325abde6e4209c95b7b030622bbff\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\5e1dde3385fa39755fa235e0de7f656c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\5e1dde3385fa39755fa235e0de7f656c\AndroidManifest.xml:20:5-44
+MERGED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:transition:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b47e594fe080a1e21b74c40d3437ed57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b47e594fe080a1e21b74c40d3437ed57\AndroidManifest.xml:20:5-44
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\toolsfinal-1.1.5.aar\a10d9bd985f90b74cf1a2d9977f2c8ba\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\toolsfinal-1.1.5.aar\a10d9bd985f90b74cf1a2d9977f2c8ba\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\2f3b716ad992f0690d635a4a65a308dd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\2f3b716ad992f0690d635a4a65a308dd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0171d27459e40095f9a2ff4d82e093f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0171d27459e40095f9a2ff4d82e093f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\25e05fa9f32de2becebb7ff2559028fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\25e05fa9f32de2becebb7ff2559028fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\88569761571c87c76d9593856a9b96cb\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\88569761571c87c76d9593856a9b96cb\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2471394357f348d9aba28b704e613671\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2471394357f348d9aba28b704e613671\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9c16640541597592255eb29e0f4716e2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9c16640541597592255eb29e0f4716e2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7173fb2851ba9211cd704dab23a4ad4b\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7173fb2851ba9211cd704dab23a4ad4b\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\21f322cf51717b188ae352f4cc1fa912\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\21f322cf51717b188ae352f4cc1fa912\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\72cb22edfaabdf747d410871a1fc992d\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\72cb22edfaabdf747d410871a1fc992d\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:6:5-48
+INJECTED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:6:5-48
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\a4245329c91c9d8d5b76712ba3de27a7\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:6:5-48
+		INJECTED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml
+	tools:ignore
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:6:15-45
+	android:minSdkVersion
+		INJECTED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:6:5-48
+		INJECTED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:8:19-57
+supports-screens
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:10:5-15:40
+	android:largeScreens
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:12:9-36
+	android:smallScreens
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:14:9-36
+	android:normalScreens
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:13:9-37
+	android:xlargeScreens
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:15:9-37
+	android:anyDensity
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:11:9-34
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:18:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:19:5-79
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\toolsfinal-1.1.5.aar\a10d9bd985f90b74cf1a2d9977f2c8ba\AndroidManifest.xml:24:5-79
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\toolsfinal-1.1.5.aar\a10d9bd985f90b74cf1a2d9977f2c8ba\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:20:5-81
+MERGED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:14:5-81
+MERGED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:14:5-81
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\toolsfinal-1.1.5.aar\a10d9bd985f90b74cf1a2d9977f2c8ba\AndroidManifest.xml:14:5-81
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\toolsfinal-1.1.5.aar\a10d9bd985f90b74cf1a2d9977f2c8ba\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:20:22-78
+uses-feature#0x00020000
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:22:5-54
+	android:glEsVersion
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:22:19-51
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:24:9-57
+uses-feature#android.hardware.camera.front
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:27:9-53
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:29:5-31:36
+	android:required
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:30:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:33:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:36:9-72
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:39:5-75
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\toolsfinal-1.1.5.aar\a10d9bd985f90b74cf1a2d9977f2c8ba\AndroidManifest.xml:18:5-75
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\toolsfinal-1.1.5.aar\a10d9bd985f90b74cf1a2d9977f2c8ba\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:39:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:40:5-80
+MERGED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:16:5-80
+MERGED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:16:5-80
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\toolsfinal-1.1.5.aar\a10d9bd985f90b74cf1a2d9977f2c8ba\AndroidManifest.xml:16:5-80
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\toolsfinal-1.1.5.aar\a10d9bd985f90b74cf1a2d9977f2c8ba\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:40:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:44:5-81
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:44:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:46:5-79
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:46:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:50:5-76
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\toolsfinal-1.1.5.aar\a10d9bd985f90b74cf1a2d9977f2c8ba\AndroidManifest.xml:20:5-76
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\toolsfinal-1.1.5.aar\a10d9bd985f90b74cf1a2d9977f2c8ba\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:50:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:52:5-76
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:52:22-73
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:60:5-89
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:60:22-86
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:62:5-68
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:62:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:63:5-74
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:63:22-71
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:64:5-84
+MERGED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:12:5-84
+MERGED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:12:5-84
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\toolsfinal-1.1.5.aar\a10d9bd985f90b74cf1a2d9977f2c8ba\AndroidManifest.xml:12:5-84
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\toolsfinal-1.1.5.aar\a10d9bd985f90b74cf1a2d9977f2c8ba\AndroidManifest.xml:12:5-84
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:64:22-81
+application
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:67:5-155:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\a4245329c91c9d8d5b76712ba3de27a7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\a4245329c91c9d8d5b76712ba3de27a7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\fe1ce3bff73b79a73d6c02639d52fbc6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\fe1ce3bff73b79a73d6c02639d52fbc6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9474ccb11a815fe20e53ed05253e6572\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9474ccb11a815fe20e53ed05253e6572\AndroidManifest.xml:22:5-26:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\4d0325abde6e4209c95b7b030622bbff\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\4d0325abde6e4209c95b7b030622bbff\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\5e1dde3385fa39755fa235e0de7f656c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\5e1dde3385fa39755fa235e0de7f656c\AndroidManifest.xml:22:5-26:19
+MERGED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:18:5-34:19
+MERGED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:18:5-34:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b47e594fe080a1e21b74c40d3437ed57\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b47e594fe080a1e21b74c40d3437ed57\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\2f3b716ad992f0690d635a4a65a308dd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\2f3b716ad992f0690d635a4a65a308dd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0171d27459e40095f9a2ff4d82e093f1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0171d27459e40095f9a2ff4d82e093f1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\25e05fa9f32de2becebb7ff2559028fd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\25e05fa9f32de2becebb7ff2559028fd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\88569761571c87c76d9593856a9b96cb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\88569761571c87c76d9593856a9b96cb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2471394357f348d9aba28b704e613671\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2471394357f348d9aba28b704e613671\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9c16640541597592255eb29e0f4716e2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9c16640541597592255eb29e0f4716e2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7173fb2851ba9211cd704dab23a4ad4b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7173fb2851ba9211cd704dab23a4ad4b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\21f322cf51717b188ae352f4cc1fa912\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\21f322cf51717b188ae352f4cc1fa912\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\72cb22edfaabdf747d410871a1fc992d\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\72cb22edfaabdf747d410871a1fc992d\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:71:9-35
+	android:label
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:70:9-41
+	android:largeHeap
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:20:9-33
+	android:icon
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:69:9-40
+	android:allowBackup
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:68:9-35
+	android:theme
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:72:9-40
+meta-data#com.amap.api.v2.apikey
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:73:9-75:64
+	android:value
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:75:13-61
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:74:13-50
+service#com.amap.api.location.APSService
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:77:9-68
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:77:18-65
+activity#com.fdwireless.trace.ui.main.LoginActivity
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:79:9-85:20
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:79:19-76
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:80:13-84:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:81:17-69
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:81:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:83:17-77
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:83:27-74
+activity#com.fdwireless.trace.ui.main.MainActivity
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:86:9-88:39
+	android:label
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:88:13-36
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:87:13-69
+activity#com.fdwireless.trace.mapmodule.CardActivity
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:89:9-91:51
+	android:theme
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:91:13-48
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:90:13-41
+activity#com.fdwireless.trace.mapmodule.NewClipActivity
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:92:9-94:54
+	android:theme
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:94:13-51
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:93:13-44
+activity#com.fdwireless.trace.ui.main.RegisterActivity
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:95:9-82
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:95:19-79
+activity#com.fdwireless.trace.ui.nav.NavUser
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:96:9-72
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:96:19-69
+activity#com.fdwireless.trace.ui.nav.NavFriends
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:97:9-75
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:97:19-72
+activity#com.fdwireless.trace.ui.nav.NavTeam
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:98:9-72
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:98:19-69
+activity#com.fdwireless.trace.ui.nav.NavSettings
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:99:9-76
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:99:19-73
+activity#com.fdwireless.trace.ui.friend_circle.NearbyActivity
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:101:9-89
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:101:19-86
+activity#com.fdwireless.trace.ui.menu.MenuSearch
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:102:9-103:38
+	android:label
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:103:13-36
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:102:19-73
+activity#com.fdwireless.trace.ui.menu.MenuGroupPeople
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:104:9-106:33
+	android:label
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:106:13-30
+	android:theme
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:105:13-49
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:104:19-78
+activity#com.fdwireless.trace.ui.team.GroupFour
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:107:9-75
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:107:19-72
+activity#com.fdwireless.trace.ui.menu.MenuSendNearby
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:108:9-110:20
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:108:19-77
+activity#com.fdwireless.trace.ar.UnityPlayerNativeActivity
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:113:9-127:20
+	android:screenOrientation
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:118:13-51
+	android:label
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:116:13-45
+	android:launchMode
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:117:13-48
+	android:configChanges
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:115:13-170
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:114:13-77
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:121:13-123:40
+	android:value
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:123:17-37
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:122:17-57
+meta-data#unityplayer.ForwardNativeEventsToDalvik
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:124:13-126:41
+	android:value
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:126:17-38
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:125:17-71
+activity#com.fdwireless.trace.ar.SecondActivity
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:128:9-133:51
+	android:process
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:130:13-44
+	android:label
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:133:13-39
+	android:launchMode
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:131:13-48
+	android:theme
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:132:13-49
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:129:13-66
+activity#com.fdwireless.trace.ar.UnityPlayerActivity
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:134:9-137:60
+	android:process
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:136:13-43
+	android:launchMode
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:137:13-48
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:135:13-71
+activity#com.unity3d.player.VideoPlayer
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:138:9-142:52
+	android:screenOrientation
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:142:13-49
+	android:label
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:141:13-45
+	android:configChanges
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:140:13-170
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:139:13-58
+uses-library#com.ti.s3d
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:148:9-150:40
+	android:required
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:150:13-37
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:149:13-38
+uses-library#com.osterhoutgroup.api.ext
+ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:152:9-154:40
+	android:required
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:154:13-37
+	android:name
+		ADDED from C:\Users\WangLihao\Desktop\Tracing-App-master\app\src\main\AndroidManifest.xml:153:13-54
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\a4245329c91c9d8d5b76712ba3de27a7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\fe1ce3bff73b79a73d6c02639d52fbc6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\fe1ce3bff73b79a73d6c02639d52fbc6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9474ccb11a815fe20e53ed05253e6572\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9474ccb11a815fe20e53ed05253e6572\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\5e1dde3385fa39755fa235e0de7f656c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\5e1dde3385fa39755fa235e0de7f656c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b47e594fe080a1e21b74c40d3437ed57\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b47e594fe080a1e21b74c40d3437ed57\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\2f3b716ad992f0690d635a4a65a308dd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\2f3b716ad992f0690d635a4a65a308dd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0171d27459e40095f9a2ff4d82e093f1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0171d27459e40095f9a2ff4d82e093f1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\25e05fa9f32de2becebb7ff2559028fd\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\25e05fa9f32de2becebb7ff2559028fd\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\88569761571c87c76d9593856a9b96cb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\88569761571c87c76d9593856a9b96cb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2471394357f348d9aba28b704e613671\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2471394357f348d9aba28b704e613671\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9c16640541597592255eb29e0f4716e2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9c16640541597592255eb29e0f4716e2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7173fb2851ba9211cd704dab23a4ad4b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7173fb2851ba9211cd704dab23a4ad4b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\21f322cf51717b188ae352f4cc1fa912\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\21f322cf51717b188ae352f4cc1fa912\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\a4245329c91c9d8d5b76712ba3de27a7\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\a4245329c91c9d8d5b76712ba3de27a7\AndroidManifest.xml:27:13-51
+activity#cn.finalteam.galleryfinal.PhotoSelectActivity
+ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:22:9-25:52
+	android:screenOrientation
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:25:13-49
+	android:configChanges
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:24:13-83
+	android:name
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:23:13-73
+activity#cn.finalteam.galleryfinal.PhotoEditActivity
+ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:26:9-29:52
+	android:screenOrientation
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:29:13-49
+	android:configChanges
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:28:13-83
+	android:name
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:27:13-71
+activity#cn.finalteam.galleryfinal.PhotoPreviewActivity
+ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:30:9-33:52
+	android:screenOrientation
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:33:13-49
+	android:configChanges
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:32:13-83
+	android:name
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\galleryfinal-1.4.8.7.aar\c49c8bf6735d6cf598dc0bc587851176\AndroidManifest.xml:31:13-74
+uses-permission#android.permission.GET_TASKS
+ADDED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\toolsfinal-1.1.5.aar\a10d9bd985f90b74cf1a2d9977f2c8ba\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\toolsfinal-1.1.5.aar\a10d9bd985f90b74cf1a2d9977f2c8ba\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.CALL_PHONE
+ADDED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\toolsfinal-1.1.5.aar\a10d9bd985f90b74cf1a2d9977f2c8ba\AndroidManifest.xml:26:5-69
+	android:name
+		ADDED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\toolsfinal-1.1.5.aar\a10d9bd985f90b74cf1a2d9977f2c8ba\AndroidManifest.xml:26:22-66
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\72cb22edfaabdf747d410871a1fc992d\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\72cb22edfaabdf747d410871a1fc992d\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\WangLihao\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\72cb22edfaabdf747d410871a1fc992d\AndroidManifest.xml:26:13-58
